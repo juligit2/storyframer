@@ -1,0 +1,5 @@
+{
+  "name": "StoryFramer",
+  "description": "Convert horizontal videos to 9:16 vertical format with letterboxing for Instagram Stories.",
+  "requestFramePermissions": []
+}
